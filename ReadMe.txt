@@ -1,0 +1,1 @@
+Implementare a Transformatei Fourier si Transformatei Fourier Discrete in C folosind paralelizarea(Pthread API).
